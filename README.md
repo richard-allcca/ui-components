@@ -1,18 +1,10 @@
-This is repository with examples of simple UI components. The repository is based on Next.js and React.js.
-
-# installation
-
-* Clone the repo with
-
-```bash
-git clone git@github.com:atherosai/ui.git
-```
-
 # For HTML/CSS/JS
+
+This is repository with examples of simple UI components. The repository is based on Next.js and React.js.
 
 Just navigate to the folder with your chosen example and open html file in the browser.
 
-# For React Examples
+## For React Examples
 
 * Install npm packages
 
